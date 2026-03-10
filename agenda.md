@@ -1,10 +1,11 @@
-## She Ships🚢: Get Started w/ OpenClaw on DigitalOcean
+## She Ships🚢: Get Started w/ OpenClaw on DigitalOcean🌊
 - [ ] 👋🌊  
 - [ ] DO = AI inference cloud☁️
+    - app plat, droplets, inference, gpus...
 - [ ] Deploy an OpenClaw🦞 bot live🧪
-- [ ] skill in whatsapp
+- [ ] 🦞skill in whatsapp
     - ![whatsapp skill](image.png)
-    ![more in whatsapp](image-1.png)
+    - ![more in whatsapp](image-1.png)
 
 - [ ] What's Next 🚀
     - [Run OpenClaw on DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-run-openclaw)
